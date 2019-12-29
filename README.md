@@ -16,14 +16,7 @@ _Function Approximation using polynomials of 1st,  2nd, 3rd  degree_
 
 _Gradient vs. non-gradient optimization methods: local and global optimization for smooth and non-smooth functions_
 
-<sr>
-  <sr>
-    <sr>
-      <sr>
-        <sr>
-          <sr>
-
-<sr>
+______________________________________________________________________________________________________________________________
 
 
 - python notebook
