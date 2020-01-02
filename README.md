@@ -8,13 +8,13 @@ The target is to find two sentences that are closest in meaning to the one locat
 
 ### 2_Function_Approximation
 
-_Function Approximation using polynomials of 1st,  2nd, 3rd  degree_
+_Function Approximation using polynomials of 1st,  2nd, 3rd  degree._
 
 
 
 ### 3_Optimization_Scipy
 
-_Gradient vs. non-gradient optimization methods: local and global optimization for smooth and non-smooth functions_
+_Gradient vs. non-gradient optimization methods: local and global optimization for smooth and non-smooth functions._
 
 ______________________________________________________________________________________________________________________________
 
