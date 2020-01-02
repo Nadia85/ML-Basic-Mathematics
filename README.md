@@ -1,4 +1,4 @@
-# ML-Basic-Mathematics
+# Basic Mathematics for Data Science
 
 ### 1_Text_Comparison
 
